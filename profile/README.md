@@ -13,6 +13,15 @@
   <img src="https://img.shields.io/badge/Strategy-AX%20Transformation-4b5563" alt="Strategy: AX Transformation" />
 </p>
 
+<p align="center">
+  <a href="http://www.rotemsrs.co.kr/" aria-label="RotemSRS Website">
+    <img src="https://img.shields.io/badge/-Website-1f4e79?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://kr.linkedin.com/company/rotemsrs" aria-label="RotemSRS LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 > RotemSRS는 **철도 운영·유지보수(O&M)** 분야의 전문성과 디지털 기술을 바탕으로,  
